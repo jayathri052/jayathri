@@ -6,18 +6,15 @@ This repository contains a collection of beginner-level programs that I created 
 
 ## 🛠️ What's Inside
 
-- Basic programs (loops, conditionals, arrays)
-- Simple logic-building exercises
-- Introductory projects in different languages (e.g., C, C++, Python, Java)
-- Console-based applications
-- Mini games or pattern programs
+- Basic login,registration pages
+- Simple html website.
 
 > These programs reflect my early learning stages and are intended for educational and reference purposes.
 
 ## 💡 Purpose
 
 - Practice basic syntax and logic
-- Strengthen problem-solving skills
+- Strengthen basic html and css
 - Serve as a resource for beginners starting out in programming
 
 
